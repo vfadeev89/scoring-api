@@ -1,0 +1,14 @@
+{
+  "account": "john_smith",
+  "login": "js",
+  "method": "online_score",
+  "token": "acaf3963395066247b9c0deed5aee30c08e686257d52afaeb2546b64c2092c3639ca0ee3602e8e8c0fb186b0a35604a4d51df2ac5dc46a66da030b7e31eb953b",
+  "arguments": {
+    "phone": "79175302441",
+    "email": "ass@ass.us",
+    "first_name": "John",
+    "last_name": "Smith",
+    "birthday": "01.01.1990",
+    "gender": 1
+  }
+}
